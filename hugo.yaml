@@ -1,0 +1,26 @@
+languageCode: en-us
+title: Personal Website
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >-
+      Welcome to my website.      
+  socialIcons:
+    - name: email
+      url: 'mailto:glennw-coding@proton.me'
+  profileMode:
+    enabled: true
+    title: "Your Name" # A title for the homepage, often your name
+    subtitle: "Your bio or tagline" # A short description
+    imageUrl: "images/profile.jpg" # The path to your profile picture
+    imageWidth: 120 # Optional: Set the width of the image
+    imageHeight: 120 # Optional: Set the height of the image
+    imageTitle: "Your Title" # Optional: Image alt text
+    buttons:
+      - name: "Blog"
+        url: "/posts/"
+      - name: "Projects"
+        url: "/projects/"
