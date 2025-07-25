@@ -13,8 +13,8 @@ params:
       url: 'mailto:glennw-coding@proton.me'
   profileMode:
     enabled: true
-    title: "Your Name" # A title for the homepage, often your name
-    subtitle: "Your bio or tagline" # A short description
+    title: "Glenn Wallace" # A title for the homepage, often your name
+    subtitle: "I'm a physicist and (aspiring) mathematician by training, programmer by instinct and grounded in an insatiable interest in philosophy and emergent phenomena." # A short description
     imageUrl: "images/profile.jpg" # The path to your profile picture
     imageWidth: 120 # Optional: Set the width of the image
     imageHeight: 120 # Optional: Set the height of the image
